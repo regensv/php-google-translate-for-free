@@ -1,7 +1,7 @@
 {
     "name": "regensv/php-google-translate-for-free",
     "description": "Library for free use Google Translator. With attempts connecting on failure and array support.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "google",
         "translator",
