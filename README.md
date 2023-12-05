@@ -1,4 +1,7 @@
 # GoogleTranslateForFree
+
+Forked from dejurin/php-google-translate-for-free
+
 Packagist: https://packagist.org/packages/dejurin/php-google-translate-for-free
 
 ![version](https://img.shields.io/github/release/dejurin/php-google-translate-for-free.svg?style=flat)
@@ -13,14 +16,14 @@ Library for free use Google Translator. With attempts connecting on failure and 
 Install this package via [Composer](https://getcomposer.org/).
 
 ```
-composer require dejurin/php-google-translate-for-free
+composer require regensv/php-google-translate-for-free
 ```
 
-Or edit your project's `composer.json` to require `dejurin/php-google-translate-for-free` and then run `composer update`.
+Or edit your project's `composer.json` to require `regensv/php-google-translate-for-free` and then run `composer update`.
 
 ```json
 "require": {
-    "dejurin/php-google-translate-for-free": "^1.0"
+    "regensv/php-google-translate-for-free": "^1.0"
 }
 ```
 
