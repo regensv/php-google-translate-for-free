@@ -1,5 +1,7 @@
 <?php
 
+namespace Dejurin;
+
 /**
  * GoogleTranslateForFree.php.
  *
